@@ -1,27 +1,19 @@
 @charset "UTF-8";
 
-@font-face {
-  font-family: "YakuCaltMincho";
-  src: url("https://raw.githack.com/monokano/Fonts/main/font/YakuCaltMincho/YakuCaltMincho-R.woff");
-  font-weight: 300;
-  unicode-range: U+2025-FF60;
-}
-
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&family=Noto+Serif+JP:wght@200&family=Reggae+One&family=Yuji+Boku&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@200&family=Reggae+One&family=Yuji+Boku&display=swap');
 /*
 @import url('https://dfo.dynacw.co.jp/DynaCSS/DynaCSS.ashx?User=42596&Domain=D0008738MFR&DTS=21-11-12-637723352892425353');
 */
 
 html{
     writing-mode: vertical-rl;
-    font-family: 'YakuCaltMincho', 'Noto Serif JP', serif;
+    font-family: 'Noto Serif JP', serif;
     font-size: 24px;
     line-height: 42px;
     text-align: justify;
 }
 
 h2{
-    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Yuji Boku', serif;
     font-feature-settings: "palt";
 }
