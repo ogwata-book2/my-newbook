@@ -1,6 +1,8 @@
 @charset "UTF-8";
 
+/*
 @import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Noto+Serif+JP:wght@200&family=Reggae+One&family=Yuji+Syuku&display=swap');
+*/
 
 html{
     writing-mode: vertical-rl;
@@ -29,3 +31,4 @@ font-family: 'Hachi Maru Pop', cursive;
 .Yuji-Syuku p {
 font-family: 'Yuji Syuku', serif;
 }
+*
